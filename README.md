@@ -43,11 +43,6 @@ Demonstrar a configuração de um ambiente de desenvolvimento moderno e integrad
 
 ---
 ##  Estrutura  do Repositório
-projeto-adf-dio/
-├── imagens/
-│ └── adf-git-config.png
-├── README.md
-└── pipelines/
-└── exemplo-pipeline.json
+projeto-adf-dio/imagens/adf-git-config.pngpipelines/exemplo-pipeline.json
 
 
